@@ -23,3 +23,9 @@ Steps to Add a Path in System’s PATH Environmental Variable
     Click New button
     Paste the path of GeckoDriver file.
     Click OK.
+    
+    
+For mac and ubuntu users use brew or curl command to install Geckodriver, Chromedriver, etc.
+For all OS these steps are same :
+ 1. install python
+ 2. pip install selenium
