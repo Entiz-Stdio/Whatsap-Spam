@@ -1,3 +1,5 @@
+i was able to do this because of Scrapgist ( https://github.com/scrapgists )
+
 Only for Newbies cause I am a Newbie : )
 Hello, I have been on to this for about 3 days to just make the copied code working. Here are some Instructions to make your process easier.
 
